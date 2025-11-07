@@ -283,12 +283,12 @@ const Hero = () => {
 
           {/* Headline */}
           <h1 className="hero-title text-5xl md:text-7xl font-bold tracking-tight">
-            <span className="inline-block">A Unified Workspace for</span>{' '}
+            <span className="inline-block">From Data to Decisions</span>{' '}
             <span className="inline-block bg-gradient-primary bg-clip-text text-transparent stroke-text">
-              Everything
+              <span className="relative z-10">—</span>
             </span>
             <br />{' '}
-            <span className="inline-block">Your Business Runs On</span>
+            <span className="inline-block">Power It All in One Portal.</span>
           </h1>
 
           {/* Subtext */}
